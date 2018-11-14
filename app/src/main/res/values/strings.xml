@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Sound</string>
+    <string name="action_1">Perfil</string>
+    <string name="action_2">Contacto</string>
+    <string name="action_3">Feed Back</string>
+    <string name="action_4">Cerrar Sesion</string>
+    <string name="tab_text_2">Eventos</string>
+    <string name="tab_text_4">Mi Evento</string>
+    <string name="tab_text_3">Perfil</string>
+    <string name="tab_text_1">Sonido</string>
+    <string name="perfil">Marcos Rivillo</string>
+    <string name="texto_login">BIENVENIDO,\n Convierte tu viaje en un sin fin de posibilidades!</string>
+    <string name="login_title">METRO NET</string>
+    <string name="usuario_login">USUARIO</string>
+    <string name="passw_login">CONTRASENA</string>
+    <string name="olvido">olvidaste tu contrasena?</string>
+    <string name="button_ingresar">Ingresa</string>
+    <string name="button_registro">Registrate</string>
+    <string name="busqueda">Buscas Algo??</string>
+</resources>

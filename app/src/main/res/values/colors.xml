@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="backgroundcolor">#fcfcfc</color>
+    <color name="lightgray">#ededed</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="yello">#ffb300</color>
+    <color name="green">#00bfa5</color>
+    <color name="darkblue">#23283a</color>
+    <color name="testcolorblue">#152b38</color>
+    <color name="pink">#fe104d</color>
+    <color name="greensoft">#81F79F</color>
+    <color name="white">#EFFBF8</color>
+    <color name="whiteTransparente">#EFFBF8</color>
+    <color name="colorappbar">#13A7A4</color>
+    <color name="red">#FF0000</color>
+    <color name="morado">#FE2EF7</color>
+    <color name="marron">#9D5656</color>
+    <color name="azuloscuro">#353CB9</color>
+    <color name="azulclaro">#3F9DFB</color>
+    <color name="loginclaro">#FAACA5</color>
+    <color name="login">#FA5858</color>
+    <color name="negro_semitransparente">#B2000000</color>
+    <color name="blanco">#fafafa</color>
+    <color name="accent_loting">#f80303</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>
