@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item android:id="@+id/profile"
+              android:icon="@drawable/ic_person_black_24dp"
+              android:title="Perfil" />
+        <item android:id="@+id/friends"
+              android:title="Amigos"
+              android:icon="@drawable/ic_people_black_24dp"/>
+        <item android:id="@+id/chat"
+              android:title="Chat"
+              android:icon="@drawable/ic_forum_black_24dp"/>
+    </group>
+
+    <group android:id="@+id/group_menu">
+        <item android:id="@+id/center_control"
+              android:title="centro de control"
+              android:icon="@drawable/ic_view_headline_black_24dp"/>
+        <item android:id="@+id/reactions"
+              android:title="Reacciones"
+              android:icon="@drawable/ic_whatshot_black_24dp"/>
+        <item android:id="@+id/actions"
+              android:title="Acciones"
+              android:icon="@drawable/ic_record_voice_over_black_24dp"/>
+    </group>
+
+    <group android:id="@+id/Settings">
+        <item android:id="@+id/settings"
+              android:title="Configuraciones"
+              android:icon="@drawable/ic_build_black_24dp"/>
+        <item android:id="@+id/signUp"
+              android:title="Cerrar Sesion"
+              android:icon="@drawable/ic_thumb_down_black_24dp"/>
+    </group>
+
+
+
+</menu>

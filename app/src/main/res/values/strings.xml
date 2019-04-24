@@ -17,4 +17,7 @@
     <string name="button_ingresar">Ingresa</string>
     <string name="button_registro">Registrate</string>
     <string name="busqueda">Buscas Algo??</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
